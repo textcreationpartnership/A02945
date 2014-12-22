@@ -32,9 +32,14 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A lamentation of the death of the moost victorious Prynce Henry the eyght late kynge of thys noble r
+
+1. ¶A lamentation of the death of the mooſt victorious
+Prynce Henry the eyght late Kynge of thys noble
+royaime of Englande.
+
 #####Back#####
-A lamentation of the death of the moost victorious Prynce Henry the eyght late kynge of thys noble r
+¶Imprinted at London in Pater noſter
+rowe by Ihon Turcke.Cum priuilegio ad imprimendum ſolum.
 **Types of content**
 
   * There are 112 **verse** lines!
